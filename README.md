@@ -8,4 +8,4 @@ Deploy your own Waline project with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/walinejs/waline/tree/main/example)
 
-> 一个 Waline 部署方法。用于我的BLog评论系统
+> 一个 [Waline](https://github.com/walinejs/waline) 部署方法。用于我的BLog评论系统
